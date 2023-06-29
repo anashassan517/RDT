@@ -1,8 +1,3 @@
-
-# Muhammad Warzan 20K-1649
-# Muhammad Anas 20K-1726
-
-
 import binascii
 import socket
 import struct
